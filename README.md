@@ -13,7 +13,7 @@
 <!-- ABOUT ME SECTION -->
 <img
   align="right"
-  width="300"
+  width="260"
   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNmemMxM3hzNjM4bGQ0cjAxaTBzYm9qYnRoY3V2NG5scWx2ZWZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"
 />
 
