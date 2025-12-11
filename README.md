@@ -15,7 +15,9 @@
 <br/>
 
 <!-- ABOUT ME SECTION -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="300" src="https://media.tenor.com/kHcmsxlKHEAAAAAd/anime-typing.gif" />
+
+<br/><br/>
 
 ```javascript
 const tai = {
