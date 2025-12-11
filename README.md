@@ -1,15 +1,45 @@
-<h1 align="center">Hi, I'm TAI 👋</h1>
-<h3 align="center">Gamma Year Software Engineering student at MMU Cyberjaya</h3>
-
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Future+Full-Stack+Java+Developer;Java+%26+Spring+Boot+Enthusiast;Always+learning+%F0%9F%93%9A" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=38EF7D&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=%3E+Hello+World!+I'm+TAI+%F0%9F%91%8B;%3E+Welcome+to+my+digital+playground..." alt="Typing SVG" />
   </a>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Java-11998e?style=for-the-badge" alt="Focus"/>
+</div>
+
+<br/>
+
+<!-- ABOUT ME SECTION -->
+<img align="right" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHNmemMxM3hzNjM4bGQ0cjAxaTBzYm9qYnRoY3V2NG5scWx2ZWZiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
+
+```javascript
+const tai = {
+    location: "🇲🇾 Malaysia",
+    education: "MMU Cyberjaya - Gamma Year",
+    role: "Software Engineering Student",
+
+    lifePhilosophy: function() {
+        return "Code. Break. Debug. Repeat. 🔄";
+    }
+};
+```
+
+<br clear="both"/>
+
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Java%20Backend-Ready-brightgreen" alt="Java Backend" /></a>
+  <a href="https://github.com/taizhixuan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:taizhixuan@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
+
+---
 
 ## 🛠 Tech Stack
 
@@ -105,12 +135,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
