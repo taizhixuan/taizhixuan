@@ -91,46 +91,6 @@ const tai = {
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" />
 </p>
 
-### 🧠 Tools
-
-<p>
-  <!-- Data Science & ML -->
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeMat-0078D6?logo=mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" />
-
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
-
-  <!-- Design & Media -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
-
-  <!-- IDEs & Editors -->
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/DataGrip-000000?logo=datagrip&logoColor=white" />
-
-  <!-- Other Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
-</p>
 
 
 
