@@ -55,10 +55,7 @@ const tai = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
 </p>
 
 ### 🔧 Backend 
