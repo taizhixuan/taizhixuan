@@ -15,7 +15,7 @@
 ```javascript
 const tai = {
     location: "🇲🇾 Malaysia",
-    education: "MMU Cyberjaya - Gamma Year",
+    education: "MMU Cyberjaya",
     role: "Software Engineering Student",
 
     lifePhilosophy: function() {
