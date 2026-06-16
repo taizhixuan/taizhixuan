@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Java-11998e?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Developer-11998e?style=for-the-badge" alt="Focus"/>
 </div>
 
 <br/>
@@ -45,16 +45,18 @@ const tai = {
 ### 🧩 Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 </p>
 
 ### 🔧 Backend 
 
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?logo=hibernate&logoColor=white" />
@@ -62,9 +64,6 @@ const tai = {
   <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/JUnit%205-25A162?logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
 </p>
 
