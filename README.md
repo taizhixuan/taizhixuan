@@ -52,6 +52,20 @@ const tai = {
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 </p>
 
+### 🎨 Frontend 
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-DD0031?logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+</p>
+
 ### 🔧 Backend 
 
 <p>
@@ -65,20 +79,6 @@ const tai = {
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/JUnit%205-25A162?logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-</p>
-
-### 🎨 Frontend 
-
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-DD0031?logo=angularjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
