@@ -38,8 +38,6 @@ const tai = {
   </a>
 </p>
 
----
-
 ## 🛠 Tech Stack
 
 ### 🧩 Languages
