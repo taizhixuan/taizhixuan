@@ -45,6 +45,9 @@ const tai = {
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
@@ -55,12 +58,10 @@ const tai = {
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AngularJS-DD0031?logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=00C58E" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
 </p>
 
@@ -69,11 +70,12 @@ const tai = {
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Data%20JPA-59666C?logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black" />
   <img src="https://img.shields.io/badge/JUnit%205-25A162?logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
@@ -115,8 +117,3 @@ const tai = {
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white" />
   <img src="https://img.shields.io/badge/Let's%20Encrypt-003A70?logo=letsencrypt&logoColor=white" />
 </p>
-  
-
-
-
-
