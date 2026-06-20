@@ -12,10 +12,7 @@
 const tai = {
     location: "🇲🇾 Malaysia",
     education: "MMU Cyberjaya",
-    role: "Software Engineering Student",
-
-    lifePhilosophy: function() {
-        return "Code. Break. Debug. Repeat. 🔄";
+    role: "Software Engineer",
     }
 };
 ```
